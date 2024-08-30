@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(90deg, azure, gray);
+}
+
+h1 {
+    color: red;
+}
+
+label {
+    font-size: 20px;
+}
+
+#preRandoms {
+    font-size: 20px;
+    color: blueviolet;
+}
